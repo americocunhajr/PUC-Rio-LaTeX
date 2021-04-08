@@ -1,8 +1,8 @@
 <img src="logo/LaTeX_logo.png" width="20%"> &nbsp; &nbsp; <img src="logo/pucrio_avr4.jpg" width="07%">
 
-**LaTeX-PUC-Rio** é um repositório que disponibiliza um pacote LaTeX (claase e template) para redigir teses, dissertações e monografias (em português e inglês) segundo as normas de apresentação da PUC-Rio.
+**LaTeX-PUC-Rio** é um repositório que disponibiliza um pacote LaTeX (classe e template) para redigir teses, dissertações e monografias (em português e inglês) segundo as normas de apresentação da Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio).
 
-Esse pacote LaTeX, e os templates nele inclusos, foram debugados e adaptados por mim nos meus anos de pós-graduação na PUC-Rio, estão sendo disponibilizados aqui com o desejo que sejam úteis às novas gerações de alunos. Não atualizo esses templates há muitos anos e não pretendo fazê-lo novamente (isso é missão dos alunos do presente), então esse pacote não tem nenhuma garantia de funcionalidade. Use-o por sua conta e risco!
+Esse pacote LaTeX, e os templates nele inclusos, foram depurados e adaptados por mim nos meus anos de pós-graduação na PUC-Rio, estão sendo disponibilizados aqui com o desejo que sejam úteis às novas gerações de alunos. Não atualizo esses templates há muitos anos e não pretendo fazê-lo novamente (isso é missão dos alunos do presente), então esse pacote não tem nenhuma garantia de funcionalidade. Use-o por sua conta e risco!
 
 ## Template
 
@@ -16,4 +16,4 @@ Esse pacote foi desenvolvido por diferentes gerações de alunos da PUC-Rio. A v
 
 ## Licença
 
-**LaTeX-PUC-Rio** é distribuido segundo os termos da licença GNU General Public License v3.0. Veja o arquivo LICENSE para mais detalhes. Todas as novas contribuições devem ser feitas sob a licença GNU General Public License v3.0.
+**LaTeX-PUC-Rio** é distribuído segundo os termos da licença GNU General Public License v3.0. Veja o arquivo LICENSE para mais detalhes. Todas as novas contribuições devem ser feitas sob a licença GNU General Public License v3.0.
