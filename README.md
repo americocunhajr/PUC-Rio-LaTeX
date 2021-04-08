@@ -2,7 +2,7 @@
 
 **LaTeX-PUC-Rio** é um repositório que disponibiliza um pacote LaTeX (claase e template) para redigir teses, dissertações e monografias (em português e inglês) segundo as normas de apresentação da PUC-Rio.
 
-Esse pacote LaTeX, e os templates nele inclusos, foram debugados e adaptados por mim nos meus anos de pós-graduação na PUC-Rio, estão sendo disponibilizados aqui com o desejo que sejam úteis às novas gerações de alunos. Não atualizo esses templates há muitos anos e não pretendo fazê-lo novamente (isso é missão dos alunos do presente), então esse pacote não tem nenhuma garantia de funcionalidade. Ese-o por sua conta e risco!
+Esse pacote LaTeX, e os templates nele inclusos, foram debugados e adaptados por mim nos meus anos de pós-graduação na PUC-Rio, estão sendo disponibilizados aqui com o desejo que sejam úteis às novas gerações de alunos. Não atualizo esses templates há muitos anos e não pretendo fazê-lo novamente (isso é missão dos alunos do presente), então esse pacote não tem nenhuma garantia de funcionalidade. Use-o por sua conta e risco!
 
 ## Template
 
