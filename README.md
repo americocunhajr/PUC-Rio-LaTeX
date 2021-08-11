@@ -1,4 +1,4 @@
-<img src="logo/LaTeX_logo.png" width="20%"> &nbsp; &nbsp; <img src="logo/pucrio_avr4.jpg" width="07%">
+<img src="logo/pucrio_avr4.jpg" width="07%"> &nbsp; &nbsp; <img src="logo/LaTeX_logo.png" width="20%">
 
 **LaTeX-PUC-Rio** é um repositório que disponibiliza um pacote LaTeX (classe e template) para redigir teses, dissertações e monografias (em português e inglês) segundo as normas de apresentação da Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio).
 
