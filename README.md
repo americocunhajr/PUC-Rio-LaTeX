@@ -17,3 +17,5 @@ Esse pacote foi desenvolvido por diferentes gerações de alunos da PUC-Rio. A v
 ## Licença
 
 **PUC-Rio-LaTeX** é distribuído segundo os termos da licença GNU General Public License v3.0. Veja o arquivo LICENSE para mais detalhes. Todas as novas contribuições devem ser feitas sob a licença GNU General Public License v3.0.
+
+<img src="logos/GPLv3_Logo.png" width="10%">
